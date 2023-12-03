@@ -2,4 +2,13 @@
     <string name="app_name">Foodeli_V1</string>
     <string name="next">Next</string>
     <string name="title_activity_location">Location</string>
+    <string name="google_maps_api_key">AIzaSyBeTSJbcu1jp5dn9d0up1Z5jqT0hLN45FI</string>
+    <string name="confirm_location">Confirm Location</string>
+    <string name="delivery_message">A free gift is being delivered to %s</string>
+    <string name="location_information">Location Information</string>
+    <string name="confirm_address">Confirm Address</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
 </resources>
